@@ -17,3 +17,9 @@ $ rails db:seed
 $ rails console
 
 tp Stroll.all.sample, tp Dogsitter.all, etc.
+
+#### Lien vers les autres projets du jeudi :
+
+[Gossip-project](https://github.com/a1iya/Gossip-project-rails)
+
+[Dogbnb](https://github.com/a1iya/Dogbnb-rails)
