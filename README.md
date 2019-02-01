@@ -1,24 +1,19 @@
-# README
+## Dogbnb - le Airbnb des promenades de chiens
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Notre projet est de créér une plateforme où des personnes pourraient promener les chiens des autres, en échange de cash-money.
 
-Things you may want to cover:
+#### Pour exécuter l'application, suis les instructions suivantes :
 
-* Ruby version
+$ git clone
 
-* System dependencies
+$ cd nom_du_dossier
 
-* Configuration
+$ bundle install
 
-* Database creation
+$ rails db:migrate
 
-* Database initialization
+$ rails db:seed
 
-* How to run the test suite
+$ rails console
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+tp Stroll.all.sample, tp Dogsitter.all, etc.
